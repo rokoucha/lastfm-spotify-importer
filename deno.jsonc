@@ -1,0 +1,12 @@
+{
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  },
+  "fmt": {
+    "options": {
+      "singleQuote": true
+    }
+  }
+}

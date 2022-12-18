@@ -1,0 +1,6 @@
+.vscode/
+.env
+endsongs/
+recenttracks.json
+matched.json
+unmatched.json
